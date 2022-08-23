@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "sysadmin@sigepi.com",
+      "password": "$2a$10$F25X7NIlFmrAQM4idhJBku3N6FDlCCyO2Jxngd89KxJGvzVIjveim",
+      "login": "sysadmin",
+      "name": "System Administrator",
+      "cpfNumber": "31460372034",
+      "rgNumber": "1251723571",
+      "rgIssuerCode": "SSP",
+      "rgIssuerFedUnit": "SP",
+      "userType": "SYS_ADMIN",
+      "id": 1
+    },
+    {
+      "email": "techsupport@sigepi.com",
+      "password": "$2a$10$prwTM26XccJwgZy/FSsP5OzgJ6fhJAYseGDg9pHrv5/O/lJZEkGbS",
+      "login": "techsupport",
+      "name": "Technical Support user",
+      "cpfNumber": "48531462029",
+      "rgNumber": "8731876",
+      "rgIssuerCode": "SSP",
+      "rgIssuerFedUnit": "SE",
+      "userType": "TECH_SUPPORT",
+      "id": 2
+    },
+    {
+      "email": "customer@sigepi.com",
+      "password": "$2a$10$u1CWntE6qfs322iK.mBLrumyM7Pz.Tm3xDeBLZVRLQgazrclY3sZi",
+      "login": "customer",
+      "name": "Customer user",
+      "cpfNumber": "37110491099",
+      "rgNumber": "34834723432",
+      "rgIssuerCode": "SSP",
+      "rgIssuerFedUnit": "SP",
+      "userType": "CUSTOMER",
+      "id": 3
+    }
+  ]
+}
